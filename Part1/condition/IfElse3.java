@@ -1,0 +1,12 @@
+class IfElse3{
+public static void main(String[]args){
+int c = -4;
+if(c>0)
+{
+System.out.println("no is positive");
+}
+else{
+System.out.println("no is negative");
+}
+}
+}
